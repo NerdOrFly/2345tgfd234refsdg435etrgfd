@@ -1,0 +1,34 @@
+This is a Message Transcript from #server-logs at 2020-10-05 12:00:01.391687
+The Following is not representative of Glasgow Clyde and is only meant as a log.
+
+[ BEGINING OF TRANSCRIPT ]
+
+
+[2020-10-05 12:00:01.391687]    BOT <@670330094904147968> sent a Message with no Available Content, this could be a Embed or File.
+[2020-10-05 12:00:01.391687]    BOT <@670330094904147968> sent a Message with no Available Content, this could be a Embed or File.
+[2020-10-05 12:00:01.391687]    BOT <@670330094904147968> sent a Message with no Available Content, this could be a Embed or File.
+[2020-10-05 12:00:01.391687]    BOT <@670330094904147968> sent a Message with no Available Content, this could be a Embed or File.
+[2020-10-05 12:00:01.391687]    BOT <@670330094904147968> sent a Message with no Available Content, this could be a Embed or File.
+[2020-10-05 12:00:01.391687]    BOT <@670330094904147968> sent a Message with no Available Content, this could be a Embed or File.
+[2020-10-05 12:00:01.391687]    BOT <@670330094904147968> sent a Message with no Available Content, this could be a Embed or File.
+[2020-10-05 12:00:01.391687]    BOT <@670330094904147968> sent a Message with no Available Content, this could be a Embed or File.
+[2020-10-05 12:00:01.391687]    BOT <@670330094904147968> sent a Message with no Available Content, this could be a Embed or File.
+[2020-10-05 12:00:01.391687]    BOT <@670330094904147968> sent a Message with no Available Content, this could be a Embed or File.
+[2020-10-05 12:00:01.391687]    BOT <@670330094904147968> sent a Message with no Available Content, this could be a Embed or File.
+[2020-10-05 12:00:01.391687]    BOT <@670330094904147968> sent a Message with no Available Content, this could be a Embed or File.
+[2020-10-05 12:00:01.391687]    BOT <@670330094904147968> sent a Message with no Available Content, this could be a Embed or File.
+[2020-10-05 12:00:01.391687]    BOT <@670330094904147968> sent a Message with no Available Content, this could be a Embed or File.
+[2020-10-05 12:00:01.391687]    BOT <@670330094904147968> sent a Message with no Available Content, this could be a Embed or File.
+[2020-10-05 12:00:01.391687]    BOT <@670330094904147968> sent a Message with no Available Content, this could be a Embed or File.
+[2020-10-05 12:00:01.391687]    BOT <@670330094904147968> sent a Message with no Available Content, this could be a Embed or File.
+[2020-10-05 12:00:01.391687]    BOT <@670330094904147968> sent a Message with no Available Content, this could be a Embed or File.
+[2020-10-05 12:00:01.391687]    BOT <@670330094904147968> sent a Message with no Available Content, this could be a Embed or File.
+[2020-10-05 12:00:01.391687]    BOT <@670330094904147968> sent a Message with no Available Content, this could be a Embed or File.
+[2020-10-05 12:00:01.391687]    BOT <@670330094904147968> sent a Message with no Available Content, this could be a Embed or File.
+[2020-10-05 12:00:01.391687]    BOT <@670330094904147968> sent a Message with no Available Content, this could be a Embed or File.
+[2020-10-05 12:00:01.391687]    BOT <@670330094904147968> sent a Message with no Available Content, this could be a Embed or File.
+[2020-10-05 12:00:01.391687]    BOT <@670330094904147968> sent a Message with no Available Content, this could be a Embed or File.
+[2020-10-05 12:00:01.391687]    BOT <@670330094904147968> sent a Message with no Available Content, this could be a Embed or File.
+
+
+[ END OF TRANSCRIPT ]
